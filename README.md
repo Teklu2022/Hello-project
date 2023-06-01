@@ -48,7 +48,7 @@ The Tech stack that were used in this project are HTML & CSS.
 ### Key Features <a name="key-features"></a>
 
 
-**Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
+Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
