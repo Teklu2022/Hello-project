@@ -1,11 +1,22 @@
 <a name="readme-top"></a>
 
-<div align="center">
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+
   <h3><b>Hello Microverse project</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -17,7 +28,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
@@ -27,19 +37,16 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Hello Microverse project <a name="about-project"></a>
 
-# 📖 Hello Microverse project  <a name="about-project"></a>
+> This is the first html and css project of the first block in which linters are integrated.
+> This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
 
-- This is the first html and css project of the first block in which linters are integrated.
-
-- Hello microverse project is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
+**Hello microverse project** is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> The Tech stack that were used in this project are HTML & CSS.
 
 <details>
   <summary>Client</summary>
@@ -49,25 +56,23 @@
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- Github workflow linter(HTML+CSS)
-- Installation of Git
+
+**Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
--  [Live Demo Link (not yet deployed)](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -77,12 +82,13 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-<ul>
-    <li><a href="https://git-scm.com/downloads">Git</a></li>
-    <li><a href="https://code.visualstudio.com/">VS Code</a></li>
-    <li><a href="https://nodejs.org/en/download/package-manager">Node</a></li>
-    <li>Chrome or any browser</li>
-</ul>
+
+Installation of Git
+installation of NPM
+a working browser
+live server
+Internet connection 
+A code editor like Visual Studio Code are required.
 
 ### Setup
 
@@ -92,25 +98,20 @@ Clone this repository to your desired folder:
    git clone https://github.com/Teklu2022/Hello-project.git
 
 
-### Install
-
-Install this project with:
-
-
-```sh
-  cd Hello project
-  npm install
-```
-
-
 ### Usage
+
+To run the project, execute the following command:
+
+  use live server extension on VSCode and a Browser
+  
+### Run test
 
 To run the project, open the project by launching the Live Server plugging in visual studio code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 
 👤 **Teklu Addise Abbide**
@@ -121,15 +122,14 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- Contact form interactivity
-- Client Testimonials
+ **[There will be an about-me section and a form that will be used to contact the developer.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -139,7 +139,7 @@ Feel free to check the [issues page](https://github.com/Teklu2022/Hello-project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+>
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -148,7 +148,7 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -157,11 +157,21 @@ I am greateful for microvese community!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
