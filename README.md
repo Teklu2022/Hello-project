@@ -1,34 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse project</b></h3>
 
 </div>
 
@@ -44,31 +16,29 @@ OPTIONAL SECTIONS:
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse project] <a name="about-project"></a>
+# 📖 Hello Microverse project <a name="about-project"></a>
 
 > This is the first html and css project of the first block in which linters are integrated.
 > This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
-> This project doesn't require any complex coding. The goal here is to master all of the tools and best practices that are used in a professional development environment.
 
-**[Hello microverse project]** is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
+> Hello microverse project is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
+> The Tech stack that were used in this project are HTML & CSS.
 
 <details>
   <summary>Client</summary>
@@ -82,19 +52,11 @@ OPTIONAL SECTIONS:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-**[Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
+
+- Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
--  [Live Demo Link (not yet deployed)](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -117,35 +79,24 @@ A code editor like Visual Studio Code are required.
 ### Setup
 
 Clone this repository to your desired folder:
+   
+   cd Hello microverse project
+   git clone https://github.com/Teklu2022/Hello-project.git
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:Teklu2022/Hello project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd Hello project
-  gem install
-```
---->
 
 ### Usage
+
+To run the project, execute the following command:
+
+  use live server extension on VSCode and a Browser
+  
+### Run test
 
 To run the project, open the project by launching the Live Server plugging in visual studio code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -162,8 +113,9 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- Contact form interactivity
+- Client Testimonials
 
-- [ ] **[There will be an about-me section and a form that will be used to contact the developer.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,23 +147,12 @@ I am greateful for microvese community!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[what is the use of css in a project]**
--   - [to provide good appreance and make the page meaningful.] 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
