@@ -4,6 +4,8 @@
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -23,18 +25,20 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
+
 # 📖 Hello Microverse project <a name="about-project"></a>
 
 > This is the first html and css project of the first block in which linters are integrated.
 > This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
 
-**Hello microverse project** is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
+> Hello microverse project is a project where no complex coding is required and the only goal here is to master all of the tools and best practices we learned at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-The Tech stack that were used in this project are HTML & CSS.
+> The Tech stack that were used in this project are HTML & CSS.
 
 <details>
   <summary>Client</summary>
@@ -44,23 +48,19 @@ The Tech stack that were used in this project are HTML & CSS.
   </ul>
 </details>
 
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 
-Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
+- Hello microverse: is a simple project to master all of the tools and best practices that are used in a professional development environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -98,6 +98,7 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -110,14 +111,17 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- Contact form interactivity
+- Client Testimonials
 
- **[There will be an about-me section and a form that will be used to contact the developer.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -127,7 +131,7 @@ Feel free to check the [issues page](https://github.com/Teklu2022/Hello-project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
->
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -136,7 +140,7 @@ If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -145,21 +149,14 @@ I am greateful for microvese community!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
