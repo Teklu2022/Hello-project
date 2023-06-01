@@ -34,6 +34,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
+    The Tech stack that were used in this project are HTML & CSS.
+
 <details>
   <summary>Client</summary>
   <ul>
